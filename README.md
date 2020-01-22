@@ -8,7 +8,7 @@
 
 Este repositório contém:
 - Aulas Práticas
-- Exames Resolvidos
+- Testes e Exames Resolvidos
 - Códigos dos métodos
 
 ## Grades

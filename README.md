@@ -14,3 +14,7 @@ Este repositório contém:
 ## Grades
 
 **MNUM final grade : 18**
+
+| | Teste 1 | Teste 2 | Exame |
+| --- | --- | --- | --- |
+| **Nota** | 7.3 | 17.0 | 20.1 |
